@@ -1,5 +1,5 @@
 .item{
-  background-color:gray;
+  background-color:rgba(172, 171, 171, 0.51);
   width: 25%;
   border-radius: .5em;
   padding-left: 1em;
@@ -10,12 +10,27 @@
 .chkbx{
   margin-left: 8em;
   width: 50px;
-
+  cursor: pointer;
   
 }
 
 .icontan{
- 
+  
   text-align:right;
 }
 
+.btn{
+  background-color: transparent;
+  border: 2px solid gray;
+  border-radius: 1em;
+  cursor: pointer;
+  
+}
+
+.btn:hover{
+  background-color: rgba(172, 171, 171, 0.51);
+}
+
+.btn:active{
+  background-color:white;
+}

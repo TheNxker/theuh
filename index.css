@@ -1,0 +1,21 @@
+.item{
+  background-color:gray;
+  width: 25%;
+  border-radius: .5em;
+  padding-left: 1em;
+  display:flex;
+  
+}
+
+.chkbx{
+  margin-left: 8em;
+  width: 50px;
+
+  
+}
+
+.icontan{
+ 
+  text-align:right;
+}
+
